@@ -15,7 +15,7 @@
 
 ## Kontribusi Anggota
 1. Handiyudha Dwiky Dharmawan (21102234)
-   /eme
+   - Mencari dataset
   - Membuat model classifikasi
 2. Fandy Ardiansyah (21102244)
   - Pre-processing dataset
