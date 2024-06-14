@@ -5,8 +5,10 @@
 
    - Pre-processing dataset tersebut menggunakan beberapa modul yang diperlukan yaitu **numpy** untuk operasi numerik, **cv2** untuk manipulasi gambar, dan **torch** untuk operasi tensor dengan tipe **float32**.
 
-
-
+   - Pre-processing yang dilakukan berupa :
+     - Mengubah ukuran gambar dan konversi ke skala abu-abu.
+     - Normalisasi gambar.
+     - Pembuatan tensor untuk digunakan dalam pelatihan model dengan PyTorch
 
 
 
