@@ -1,7 +1,7 @@
 # Tugas Pengenalan Pola - Klasifikasi Mobil
 ## Deskripsi Project
 
-![Dataset Mobil](https://drive.google.com/file/d/1CusY527ohMaiPlwvoJpz2rBBcaDb_NzQ/view?usp=sharing)
+![Dataset Mobil](https://github.com/ardriaro/image.git)
 
 
 
