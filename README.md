@@ -1,6 +1,6 @@
 # Tugas Pengenalan Pola - Klasifikasi Mobil
 ## Deskripsi Project
-
+   - ds
 ![Dataset Mobil](https://github.com/ardriaro/image/blob/3c0933f7c771dcf100f55130c916c8a42a60fc6f/dataset.png)
 
 
