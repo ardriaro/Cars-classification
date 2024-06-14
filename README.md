@@ -16,7 +16,7 @@
 ## Kontribusi Anggota
 1. Handiyudha Dwiky Dharmawan (21102234)
    - Mencari dataset
-  - Membuat model classifikasi
+   - Membuat model classifikasi
 2. Fandy Ardiansyah (21102244)
-  - Pre-processing dataset
-  - melakukan push git hub
+   - Pre-processing dataset
+   - melakukan push git hub
