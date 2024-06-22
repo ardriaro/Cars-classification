@@ -12,6 +12,10 @@
      - Berikut hasil pre-processing dataset :
 ![Pre-processing](https://github.com/ardriaro/image/blob/5d8d270e3d6476cfa0fa65ae8ca10d729f3349f6/image.png)
 
+   - Training model menggunakan GPU sebagai runtime program tersebut karena GPU dapat memproses data secara paralel untuk mempercepat komputasi.
+     
+   - Training model menggunakan dataset yang telah dilakukan pre-processing, training tersebut dilakukan dalam batch sebesar 32 sampel dan akan berlangsung selama 30 epoch. Adapun argumen **verbose=true** menunjukkan informasi training (seperti loss dan akurasi) akan ditampilkan selama proses training.![Dataset Mobil](https://github.com/ardriaro/image/blob/712cfe08fdfd5631eca00064dbbe77d9d7c56875/image.png)
+
 ## Anggota Kelompok
 1. Handiyudha Dwiky Dharmawan (21102234)
 2. Fandy Ardiansyah (21102244)
