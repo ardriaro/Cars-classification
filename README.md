@@ -10,8 +10,7 @@
      - Normalisasi gambar.
      - Pembuatan tensor untuk digunakan dalam pelatihan model dengan PyTorch
      - Berikut hasil pre-processing dataset :
-![Pre-processing](https://github.com/ardriaro/image/blob/3c0933f7c771dcf100f55130c916c8a42a60fc6f/dataset.png)
-
+![Pre-processing](https://github.com/ardriaro/image/blob/5d8d270e3d6476cfa0fa65ae8ca10d729f3349f6/image.png)
 
 ## Anggota Kelompok
 1. Handiyudha Dwiky Dharmawan (21102234)
