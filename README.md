@@ -10,7 +10,7 @@
      - Normalisasi gambar.
      - Pembuatan tensor untuk digunakan dalam pelatihan model dengan PyTorch
      - Berikut hasil pre-processing dataset :
-     - ![Pre-processing]([https://github.com/ardriaro/image/blob/3c0933f7c771dcf100f55130c916c8a42a60fc6f/dataset.png])
+![Pre-processing]([https://github.com/ardriaro/image/blob/3c0933f7c771dcf100f55130c916c8a42a60fc6f/dataset.png])
 
 
 ## Anggota Kelompok
