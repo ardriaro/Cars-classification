@@ -18,6 +18,11 @@
    - Berikut hasil training model yang dilakukan :
      ![Dataset Mobil](https://github.com/ardriaro/image/blob/712cfe08fdfd5631eca00064dbbe77d9d7c56875/image.png)
 
+   - Evaluasi model dilakukan dengan menguji model tersebut, disini kami menggunakan dataset pre-processing untuk melakukan prediksi dari beberapa gambar.
+   - Berikut hasil predict klasifikasi:
+     ![Dataset Mobil](https://github.com/ardriaro/image/blob/7255b8d5887bb04627f6ae09f3c1e58ecbd08ee8/image.png)
+
+     
 ## Anggota Kelompok
 1. Handiyudha Dwiky Dharmawan (21102234)
 2. Fandy Ardiansyah (21102244)
